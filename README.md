@@ -80,19 +80,37 @@ Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/ass
 
 Deep Dive into Windows Server. These videos will run over 45 minutes so just pause and resume once the break starts and ends.
 
+If you want to follow along by standing up your own virtual windows server feel free to!
+
+You can get the iso from the class instructor usb, or download it directly from [Microsoft](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server).
+
 0800 - 01 Server Overview
+
+Get the video from your instructor USB or visit this [Download Link for Server Overview](https://drive.google.com/file/d/1lV7jg5pbpOSx3PIsFnsIdOHylBUI5mJz/view?usp=sharing)
 
 0900 - 02 Managing Windows Server 2008 R2
 
+Get the video from your instructor USB or visit this [Download Link for Managing Windows Server 2008 R2](https://drive.google.com/file/d/1262kNC-OCK9HpinKoe38N_KSQNHfiztg/view?usp=sharing)
+
 1000 - 03 Managing Storage
+
+Get the video from your instructor USB or visit this [Download Link for Managing Storage](https://drive.google.com/file/d/1mVgMeF0gLYkz_s0P1wU0tYUfFCSavcfB/view?usp=sharing)
 
 1100 - 04 Monitoring and Troubleshooting Servers
 
+Get the video from your instructor USB or visit this [Download Link for Monitoring and Troubleshooting Servers](https://drive.google.com/file/d/1ytP5gO-RwFQJ6olsGUA-fkoSoN3cBghr/view?usp=sharing)
+
 1300 - 05 Essential Services
+
+Get the video from your instructor USB or visit this [Download Link for Essential Services](https://drive.google.com/file/d/19YqoP5lBu1zortqnFepuvpaszZLoE6_k/view?usp=sharing)
 
 1400 - 06 File and Print Services
 
+Get the video from your instructor USB or visit this [Download Link for File and Print Services](https://drive.google.com/file/d/1r03l3KRhifG-9NKuDpEfrjerODgeH4xo/view?usp=sharing)
+
 1500 - 07 Popular Windows Network Services and Applications
+
+Get the video from your instructor USB or visit this [Download Link for Popular Windows Network Services and Applications](https://drive.google.com/file/d/10zt29plZxGZieVesn06qgdVB__qYwg2y/view?usp=sharing)
 
 1600 - Keep watching
 
