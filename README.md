@@ -14,9 +14,17 @@ You will be participating in the following classes over a week from 0800 to 1700
 
 0900 - Virtualization concepts
 
+Download video here [Network Chuck you need to learn Virtual Machines RIGHT NOW!!]()
+or watch on Youtube.
+[Network Chuck you need to learn Virtual Machines RIGHT NOW!!](https://www.youtube.com/watch?v=wX75Z-4MEoM)
+
 1000 - Virtualization on your device
 
 1100 - Virtualization for development, and snapshots
+
+Download video here [Network Chuck Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux)]()
+or watch on youtube
+[Network Chuck Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux)](https://www.youtube.com/watch?v=_u8qTN3cCnQ)
 
 1300 - Powershell 1
 
@@ -69,7 +77,7 @@ Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/ass
 
 ### Wednesday
 
-Deep Dive into Windows Server
+Deep Dive into Windows Server. These videos will run over 45 minutes so just pause and resume once the break starts and ends.
 
 0800 - 01 Server Overview
 
@@ -85,17 +93,19 @@ Deep Dive into Windows Server
 
 1500 - 07 Popular Windows Network Services and Applications
 
-1600 -
+1600 - Keep watching
 
 ### Thursday
 
-0800 - STIG Checklists, Where to get them, how to use them, how to automate them, how to secure an enterprise
+0800 - Keep watching windows server vids, Set up windows server as a virtual machine on your computer
 
-0900 - DoD Security Fundamentals, Why do we STIG, How does it contribute to our secure communications, and building a security program
+You can get the iso from the class instructor usb, or download it directly from [Microsoft](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server).
 
-1000 - IT Troubleshooting and Essentials Training
+0900 - STIG Checklists, Where to get them, how to use them, how to automate them, how to secure an enterprise
 
-1100 - 
+1000 - DoD Security Fundamentals, Why do we STIG, How does it contribute to our secure communications, and building a security program
+
+1100 - IT Troubleshooting and Essentials Training 
 
 1300 -
 
