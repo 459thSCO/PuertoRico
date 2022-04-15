@@ -142,19 +142,19 @@ Get the video from your instructor USB or visit this [Download Link for Network 
 
 Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 02](https://drive.google.com/file/d/1WsMB44klxPAH3yWesHhYMkjawVOY3E5L/view?usp=sharing)
 
-0900 - Network Chuck - Linux for Hackers (or anyone)
+0900 - Network Chuck - Linux for Hackers (or anyone) 03 and 04
 
 Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 03](https://drive.google.com/file/d/1e62W9aqJDmI8DK-BeWzX7X7q9kM0dg1z/view?usp=sharing)
 
 Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 04](https://drive.google.com/file/d/1_MRNjNU26RA2yjlPOvYVG4Qvo2vdYvXs/view?usp=sharing)
 
-1000 - Network Chuck - Linux for Hackers (or anyone)
+1000 - Network Chuck - Linux for Hackers (or anyone 05 and 06
 
 Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 05](https://drive.google.com/file/d/1eJkTY0h3V8wKSxA0NtSZqCHhmZN2seO8/view?usp=sharing)
 
 Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 06](https://drive.google.com/file/d/1UKcOW2COZqYJhpItNY-LU0DRKnggGoCR/view?usp=sharing)
 
-1100 - Network Chuck - Linux for Hackers (or anyone)
+1100 - Network Chuck - Linux for Hackers (or anyone) 07 and 08
 
 Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 07](https://drive.google.com/file/d/1nYQkaYg0zmozqoImxr7KZBftJf3mJ6TY/view?usp=sharing)
 
@@ -170,5 +170,7 @@ Get the video from your instructor USB or visit this [Download Link for Network 
 
 ## Acknowledgments
 Network Chuck https://networkchuck.com/ & https://www.youtube.com/networkchuck
+
+Microsoft Virtual Academy, it no longer exists but is archived here [archive.org](https://archive.org/details/microsoftvirtualacadamy2019)
 
 Inspiration, code snippets, etc.
