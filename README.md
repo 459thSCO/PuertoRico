@@ -122,17 +122,33 @@ You can get the iso from the class instructor usb, or download it directly from 
 
 0900 - STIG Checklists, Where to get them, how to use them, how to automate them, how to secure an enterprise
 
+Instructor Led discussion
+
 1000 - DoD Security Fundamentals, Why do we STIG, How does it contribute to our secure communications, and building a security program
 
-1100 - IT Troubleshooting and Essentials Training 
+Instructor Led Discussion
 
-1300 -
+1100 - IT Security
 
-1400 -
+Get the video from your instructor USB or visit this [Download Link for Impliment Security Best Practices](https://drive.google.com/file/d/1jJWi1BDh2JGSHUuZrvQHY9MYqhRNqZ5i/view?usp=sharing)
 
-1500 -
+Get the video from your instructor USB or visit this [Download Link for Impliment Security Best Practices Part 2](https://drive.google.com/file/d/1ULhirHufihay3VJ0SQhxNmviesYNFshW/view?usp=sharing)
 
-1600 -
+1300 - Troubleshooting
+
+Get the video from your instructor USB or visit this [Download Link for A + Troubleshooting Methodology](https://drive.google.com/file/d/1cfKKp-pqzfso4jJq3OLrtFcyj3bLRgP-/view?usp=sharing)
+
+1400 - Documentation
+
+Get the video from your instructor USB or visit this [Download Link for Create and Maintain Documentation](https://drive.google.com/file/d/11T1UFykUTU-lyllty6GRSR978J-WEUMH/view?usp=sharing)
+
+1500 - Networking Fundamentals (pause and resume after break, video is 1h+)
+
+Get the video from your instructor USB or visit this [Download Link for Networking Fundametals Understanding Local Area Networking](https://drive.google.com/file/d/18IrDnpDIgDVvffX4yy5jIQJYT3RPf1za/view?usp=sharing)
+
+1600 - Troubleshooting network connections
+
+Get the video from your instructor USB or visit this [Download Link for Troubleshooting Network Connections](https://drive.google.com/file/d/1oST8LWq5tIrkP6ETLxFSEdhsnKq_s5Wc/view?usp=sharing)
 
 ### Friday
 
