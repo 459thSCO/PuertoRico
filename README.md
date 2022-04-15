@@ -136,13 +136,29 @@ You can get the iso from the class instructor usb, or download it directly from 
 
 ### Friday
 
-0800 - Installing Linux on your virtual machines (Kali and Ubuntu), Network Chuck - Linux for Hackers (or anyone)
+0800 - Installing Linux on your virtual machines (Kali and Ubuntu), Network Chuck - Linux for Hackers (or anyone) 01 and 02
+
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 01](https://drive.google.com/file/d/1OFV7eo41JV7vvqVtZDLj5OaD2eYjadfc/view?usp=sharing)
+
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 02](https://drive.google.com/file/d/1WsMB44klxPAH3yWesHhYMkjawVOY3E5L/view?usp=sharing)
 
 0900 - Network Chuck - Linux for Hackers (or anyone)
 
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 03](https://drive.google.com/file/d/1e62W9aqJDmI8DK-BeWzX7X7q9kM0dg1z/view?usp=sharing)
+
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 04](https://drive.google.com/file/d/1_MRNjNU26RA2yjlPOvYVG4Qvo2vdYvXs/view?usp=sharing)
+
 1000 - Network Chuck - Linux for Hackers (or anyone)
 
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 05](https://drive.google.com/file/d/1eJkTY0h3V8wKSxA0NtSZqCHhmZN2seO8/view?usp=sharing)
+
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 06](https://drive.google.com/file/d/1UKcOW2COZqYJhpItNY-LU0DRKnggGoCR/view?usp=sharing)
+
 1100 - Network Chuck - Linux for Hackers (or anyone)
+
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 07](https://drive.google.com/file/d/1nYQkaYg0zmozqoImxr7KZBftJf3mJ6TY/view?usp=sharing)
+
+Get the video from your instructor USB or visit this [Download Link for Network Chuck Linux for Hackers 08](https://drive.google.com/file/d/1hIBOBCOH_ilciN14wWf0HA1nSJTT6Evk/view?usp=sharing)
 
 1300 - Overflow Period
 
