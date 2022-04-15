@@ -18,7 +18,7 @@ Download video here [Network Chuck you need to learn Virtual Machines RIGHT NOW!
 or watch on Youtube.
 [Network Chuck you need to learn Virtual Machines RIGHT NOW!!](https://www.youtube.com/watch?v=wX75Z-4MEoM)
 
-1000 - Virtualization on your device
+1000 - Virtualization on your device (lets set it up!)
 
 1100 - Virtualization for development, and snapshots
 
@@ -67,6 +67,7 @@ Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/ass
 1400 - Powershell 10
 
 Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 1500 - Powershell 11
 
 Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
