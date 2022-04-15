@@ -10,34 +10,97 @@ You will be participating in the following classes over a week from 0800 to 1700
 
 ### Monday
 
-Introduction to the course and Virtualization on your device
+0800 - Introduction to the course, your computer, the sylabus, and classroom protocl
 
-Powershell Basics and Labs
+0900 - Virtualization concepts
+
+1000 - Virtualization on your device
+
+1100 - Virtualization for development, and snapshots
+
+1300 - Powershell 1
+
+1400 - Powershell 2
+
+1500 - Powershell 3
+
+1600 - Powershell 4
 
 ### Tuesday
 
-Powershell Basics and Labs
+0800 - Powershell 5
+
+0900 - Powershell 6
+
+1000 - Powershell 7
+
+1100 - Powershell 8
+
+1300 - Powershell 9
+
+1400 - Powershell 10
+
+1500 - Powershell 11
+
+1600 - Powershell 12
 
 ### Wednesday
 
-STIG Checklists and DoD Security
+Deep Dive into Windows Server
 
-IT Troubleshooting and Essentials Training
+0800 - 01 Server Overview
+
+0900 - 02 Managing Windows Server 2008 R2
+
+1000 - 03 Managing Storage
+
+1100 - 04 Monitoring and Troubleshooting Servers
+
+1300 - 05 Essential Services
+
+1400 - 06 File and Print Services
+
+1500 - 07 Popular Windows Network Services and Applications
+
+1600 -
 
 ### Thursday
 
-Deep Dive into Windows Server
+0800 - STIG Checklists, Where to get them, how to use them, how to automate them, how to secure an enterprise
+
+0900 - DoD Security Fundamentals, Why do we STIG, How does it contribute to our secure communications, and building a security program
+
+1000 - IT Troubleshooting and Essentials Training
+
+1100 - 
+
+1300 -
+
+1400 -
+
+1500 -
+
+1600 -
 
 ### Friday
 
-Installing Linux on your virtual machines
+0800 - Installing Linux on your virtual machines (Kali and Ubuntu), Network Chuck - Linux for Hackers (or anyone)
 
-Introduction to linux
+0900 - Network Chuck - Linux for Hackers (or anyone)
 
-Overflow Periods
+1000 - Network Chuck - Linux for Hackers (or anyone)
 
-Classroom Cleanup
+1100 - Network Chuck - Linux for Hackers (or anyone)
+
+1300 - Overflow Period
+
+1400 - Overflow Period
+
+1500 - Repacking Equiptment
+
+1600 - Repacking Equiptment and classroom cleanup
 
 ## Acknowledgments
+Network Chuck https://networkchuck.com/ & https://www.youtube.com/networkchuck
 
 Inspiration, code snippets, etc.
