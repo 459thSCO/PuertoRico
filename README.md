@@ -20,29 +20,52 @@ You will be participating in the following classes over a week from 0800 to 1700
 
 1300 - Powershell 1
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 1400 - Powershell 2
+
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
 
 1500 - Powershell 3
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 1600 - Powershell 4
+
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
 
 ### Tuesday
 
 0800 - Powershell 5
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 0900 - Powershell 6
+
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
 
 1000 - Powershell 7
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 1100 - Powershell 8
+
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
 
 1300 - Powershell 9
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 1400 - Powershell 10
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
 1500 - Powershell 11
 
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
+
 1600 - Powershell 12
+
+Find it at [Air Force E Learning](https://usafprod.skillport.com/skillportfe/assetNonSSOLaunch.action?courseName=_ss_book:147123&courseType=7) or locally at C:\Learn_Windows_Powershell_In_A_Month_Of_Lunches.pdf
 
 ### Wednesday
 
