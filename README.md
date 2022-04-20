@@ -1,6 +1,6 @@
 # Puerto Rico Training - Operation Tropical Journeyman Training
 
-This is a syllabus of what we will be training on to elevate your current skills to that of a experienced Journeyman and share skills between cyber peers.
+This is a syllabus of what we will be training on to elevate your current skills to that of an experienced Journeyman and share skills between cyber peers.
 
 ## Description
 
@@ -10,7 +10,7 @@ You will be participating in the following classes over a week from 0800 to 1700
 
 ### Monday
 
-0800 - Introduction to the course, your computer, the sylabus, and classroom protocl
+0800 - Introduction to the course, your computer, the syllabus, and classroom protocol
 
 0900 - Virtualization concepts
 
@@ -130,9 +130,9 @@ Instructor Led Discussion
 
 1100 - IT Security
 
-Get the video from your instructor USB or visit this [Download Link for Impliment Security Best Practices](https://drive.google.com/file/d/1jJWi1BDh2JGSHUuZrvQHY9MYqhRNqZ5i/view?usp=sharing)
+Get the video from your instructor USB or visit this [Download Link for Implement Security Best Practices](https://drive.google.com/file/d/1jJWi1BDh2JGSHUuZrvQHY9MYqhRNqZ5i/view?usp=sharing)
 
-Get the video from your instructor USB or visit this [Download Link for Impliment Security Best Practices Part 2](https://drive.google.com/file/d/1ULhirHufihay3VJ0SQhxNmviesYNFshW/view?usp=sharing)
+Get the video from your instructor USB or visit this [Download Link for Implement Security Best Practices Part 2](https://drive.google.com/file/d/1ULhirHufihay3VJ0SQhxNmviesYNFshW/view?usp=sharing)
 
 1300 - Troubleshooting
 
@@ -144,7 +144,7 @@ Get the video from your instructor USB or visit this [Download Link for Create a
 
 1500 - Networking Fundamentals (pause and resume after break, video is 1h+)
 
-Get the video from your instructor USB or visit this [Download Link for Networking Fundametals Understanding Local Area Networking](https://drive.google.com/file/d/18IrDnpDIgDVvffX4yy5jIQJYT3RPf1za/view?usp=sharing)
+Get the video from your instructor USB or visit this [Download Link for Networking Fundamentals Understanding Local Area Networking](https://drive.google.com/file/d/18IrDnpDIgDVvffX4yy5jIQJYT3RPf1za/view?usp=sharing)
 
 1600 - Troubleshooting network connections
 
@@ -180,9 +180,9 @@ Get the video from your instructor USB or visit this [Download Link for Network 
 
 1400 - Overflow Period
 
-1500 - Repacking Equiptment
+1500 - Repacking Equipment
 
-1600 - Repacking Equiptment and classroom cleanup
+1600 - Repacking Equipment and classroom cleanup
 
 ## Acknowledgments
 Network Chuck https://networkchuck.com/ & https://www.youtube.com/networkchuck
