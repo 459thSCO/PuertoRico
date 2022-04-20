@@ -3,8 +3,7 @@
 This is a syllabus of what we will be training on to elevate your current skills to that of an experienced Journeyman and share skills between cyber peers.
 
 ## Description
-
-You will be participating in the following classes over a week from 0800 to 1700. Each class will include a 15 minute break from the content to take care of bio concerns such as bathroom, water, snack, or fresh air. The class will resume at the top of the hour. During class feel free to ask questions related to the topics and keep disruptions to a minimum. Set your communication devices to vibrate and step out promptly whenever you need to shift for focus to any bio related or phone related matters.
+Each session will include a 10-15 minute break from the content to take care of bio concerns such as bathroom, water, snack, or fresh air. The class will resume at the top of the hour. During class feel free to ask questions related to the topics and keep disruptions to a minimum. Set your communication devices to vibrate and step out promptly whenever you need to shift for focus to any bio related or phone related matters.
 
 ## Class Topics and Schedule
 
